@@ -20,5 +20,5 @@
 1. **Capitalized, short (50 chars or less) summary:** Viết hoa chữ cái đầu, tóm tắt ý chính trong vòng 50 ký tự.
 2. **More detailed explanatory text, if necessary:** Phần chú giải cố gắng trong khoảng 72 ký tự. Phần chú giải không bắt buộc phải có.
 3. **Always leave the second line blank:** Luôn luôn để trống dòng thứ 2 (để phân tách giữa `tóm tắt` và `chú giải`).
-4. ** Write your commit message in the imperative:** Viết câu ở dạng mệnh lệnh, ví dụ: Fix gì đó, Setup gì đó, Add gì đó, ...
+4. **Write your commit message in the imperative:** Viết câu ở dạng mệnh lệnh, ví dụ: Fix gì đó, Setup gì đó, Add gì đó, ...
 5. **Further paragraphs come after blank lines:** Phần chú giải có thể Bullet points để diễn đạt các ý (sử dụng `-` hoặc `*`), lưu ý căn lề đầu dòng 2-4 spaces.
