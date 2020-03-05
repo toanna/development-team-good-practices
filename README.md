@@ -1,8 +1,8 @@
-#Development Team's Good Practices
+# Development Team's Good Practices
 
-##Git
+## Git
 
-###Commmit Writing
+### Commmit Writing
 
 #### References
 - [https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
